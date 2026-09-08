@@ -42,3 +42,25 @@ student-database-app/
 ├── package.json
 ├── package-lock.json
 └── server.js
+
+Application Workflow
+
+User
+  │
+  ▼
+Student Registration Form
+  │
+  ▼
+POST /add-student
+  │
+  ▼
+Node.js + Express.js
+  │
+  ▼
+PostgreSQL
+  │
+  ▼
+Students Table
+  │
+  ▼
+Student Data Stored
