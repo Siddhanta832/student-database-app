@@ -43,8 +43,11 @@ student-database-app/
 ├── package-lock.json
 └── server.js
 
-Application Workflow
+## 🔄 Application Workflow
 
+The application follows the workflow below:
+
+```text
 User
   │
   ▼
