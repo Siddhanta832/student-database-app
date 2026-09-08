@@ -73,3 +73,7 @@ Student Data Stored
 <img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/0378ef52-534a-4931-825b-b2b767a5876d" />
 
 <img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e2fe44c4-b93c-47d7-9d6e-6526a2030dc9" />
+
+## 🎥 Project Demo
+
+[▶️ Watch the Student Database Demo](demo/student-database-demo.mp4)
