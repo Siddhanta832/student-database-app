@@ -65,3 +65,11 @@ Students Table
   ▼
 Student Data Stored
 ```
+
+## Step:-1
+
+<img width="1908" height="1017" alt="Image" src="https://github.com/user-attachments/assets/0c0db60e-e3a2-4c8c-8da2-3ca4b215d79d" />
+
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/0378ef52-534a-4931-825b-b2b767a5876d" />
+
+<img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e2fe44c4-b93c-47d7-9d6e-6526a2030dc9" />
