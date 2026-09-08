@@ -23,8 +23,6 @@ The application allows users to enter student details through a web form and sto
 - **Development Tool:** Visual Studio Code
 - **Version Control:** Git & GitHub
 
-## Project Structure
-
 ```text
 student-database-app/
 │
@@ -42,10 +40,9 @@ student-database-app/
 ├── package.json
 ├── package-lock.json
 └── server.js
+```
 
 ## 🔄 Application Workflow
-
-The application follows the workflow below:
 
 ```text
 User
@@ -67,3 +64,4 @@ Students Table
   │
   ▼
 Student Data Stored
+```
